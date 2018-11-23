@@ -27,5 +27,3 @@ Then navigate to the build directory and start a localhost with python
 python -m SimpleHTTPServer 8000
 ```
 After that navigate to [http://localhost:8000](http://localhost:8000) in your browser.
-
-## Enjoy.
